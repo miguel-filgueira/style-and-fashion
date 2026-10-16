@@ -1,4 +1,4 @@
-# 👕 style and fashion
+# 👕 Style and Fashion
 
 Site de uma loja de roupas desenvolvido durante meus estudos de **HTML e CSS**.
 
