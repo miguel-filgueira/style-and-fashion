@@ -22,10 +22,6 @@ detalhe: o site é só uma vitrine👌
 - Praticar responsividade
 - Desenvolver projetos para portfólio
 
-## 🌐 Acesse o projeto
-
-🔗 [Clique aqui para visualizar o site](https://miguel-filgueira.github.io/Drip-Zone/)
-
 ## 📚 Status
 
 ✅ Projeto concluído para fins de estudo.
