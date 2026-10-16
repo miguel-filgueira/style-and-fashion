@@ -11,7 +11,7 @@ O projeto foi criado com o objetivo de praticar estruturação de páginas, esti
 
 ## 💻 Sobre o projeto
 
-A **Zona de Gotejamento** simula uma loja virtual de roupas, apresentando produtos e uma interface desenvolvida para praticar conceitos de desenvolvimento web.
+A **Style and Fashion** simula uma loja virtual de roupas, apresentando produtos e uma interface desenvolvida para praticar conceitos de desenvolvimento web.
 detalhe: o site é só uma vitrine👌
 
 ## 🎯 Objetivos do projeto
